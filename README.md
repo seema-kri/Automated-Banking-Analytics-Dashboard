@@ -201,7 +201,9 @@ Customer KPI cards, segment breakdown, occupation distribution, and income/age b
 ## Author & Contact
 
 **Seema** — Data & BI Analyst
+
 📧 Email: kriseema87@gmail.com
+
 🔗 LinkedIn: [https://linkedin.com/in/seema-kumari-375763308](https://linkedin.com)
 
 *If you found this project useful, consider giving it a ⭐ on GitHub!*
