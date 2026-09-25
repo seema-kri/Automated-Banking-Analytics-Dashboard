@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Power BI temp/lock files
+*.pbix.lock
+~$*.pbix
+
+# Excel/Office temp files
+~$*.xlsx
+~$*.docx
+~$*.pptx
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
